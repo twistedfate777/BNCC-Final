@@ -1,0 +1,3 @@
+Untuk menggunakan fitur admin gunakan : 
+email : admin@gmail.com
+password : admin123
